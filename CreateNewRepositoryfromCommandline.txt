@@ -10,3 +10,9 @@ git push -u origin main
 git remote add origin https://github.com/ajaykrishna1718/Gradient-Descent.git
 git branch -M main
 git push -u origin main
+
+
+
+Push the Changes to the Remote Repository:
+If you’re on the correct branch and have made a new commit, you can push those changes to the remote repository using:
+git push
